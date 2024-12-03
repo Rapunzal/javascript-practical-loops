@@ -1,3 +1,4 @@
+//Next Prime Number
 let isPrime = true;
 let n = 23;
 
